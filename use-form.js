@@ -3,7 +3,7 @@
 
 import { useState } from "react";
 
-export const useInput = (valueValidityFun, initialValue = "") => {
+export const useForm = (valueValidityFun, initialValue = "") => {
   const [value, setValue] = useState(initialValue);
   const [isTouched, setIsTouched] = useState(false);
 

@@ -1,8 +1,8 @@
 {
-  "name": "user-input",
-  "version": "1.0.0",
+  "name": "@mitish13/form-hook",
+  "version": "1.0.1",
   "description": "React custom hook for form validation",
-  "main": "use-input.js",
+  "main": "use-form.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
