@@ -1,0 +1,26 @@
+{
+  "name": "user-input",
+  "version": "1.0.0",
+  "description": "React custom hook for form validation",
+  "main": "use-input.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitish13/user-input.git"
+  },
+  "keywords": [
+    "custom",
+    "hook",
+    "form",
+    "validation",
+    "react.js"
+  ],
+  "author": "mitish13",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mitish13/user-input/issues"
+  },
+  "homepage": "https://github.com/mitish13/user-input#readme"
+}
