@@ -3,7 +3,7 @@
 
 import { useState } from "react";
 
-const useInput = (valueValidityFun, initialValue = "") => {
+export const useInput = (valueValidityFun, initialValue = "") => {
   const [value, setValue] = useState(initialValue);
   const [isTouched, setIsTouched] = useState(false);
 
@@ -32,5 +32,3 @@ const useInput = (valueValidityFun, initialValue = "") => {
     resetForm,
   };
 };
-
-export default useInput;
