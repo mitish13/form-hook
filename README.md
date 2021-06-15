@@ -15,7 +15,7 @@ A react hook for form validation
 
 Hook will take two things as an argument
 
-1. Field validatation logic : pass a function to tell what to validate
+1. Field validatation logic : pass a function to tell how to validate a value
 2. Default value : pass a value, It will be set as a initial value of state ( default is set to '')
 
 Here is one simple form validation example
